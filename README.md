@@ -36,9 +36,6 @@
 └── img/              # Imagens utilizadas no projeto
 </code></pre>
 
-  <h2>📸 Demonstração</h2>
-  <p><img src="img/demo.gif" alt="Demonstração do Refund" style="max-width:100%; height:auto;"></p>
-  <p><em>Nota: Substitua o GIF acima por uma demonstração real do sistema em funcionamento.</em></p>
 
   <h2>🔧 Como Utilizar</h2>
   <ol>
